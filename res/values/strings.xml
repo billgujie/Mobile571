@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mobile571</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="edit_message"> Enter Location/ZIP </string>
+    <string name="button_send">   Search </string>
+    <string name="app_id">182771221919075</string>
+    <string name="title_activity_fblogin">FBLogin</string>
+
+</resources>
